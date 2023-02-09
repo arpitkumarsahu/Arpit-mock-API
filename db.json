@@ -61,5 +61,12 @@
         "email": "cnorssister9@mayoclinic.com"
       }
     ],
-    "users":[]
+    "users":[
+        {
+            "name":"Arpit"
+        },
+        {
+            "name":"Albert"
+        }
+    ]
   }
